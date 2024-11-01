@@ -76,7 +76,7 @@ def main():
 	elif choice == 2:	
 		print(caesar(cipher))
 	elif choice == 3:
-		print(a1z26("19-5-22-5-18-1-12 23-15-18-4-19 1-19 5-24-1-13-16-12-5"))
+		print(a1z26(cipher))
 
 if __name__ == "__main__":
 	main()
